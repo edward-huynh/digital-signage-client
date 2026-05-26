@@ -40,6 +40,12 @@
           "initialOrientation": "DEFAULT"
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "f26eb362-69da-44d2-baa1-456b214f4e4a"
+      }
+    },
+    "owner": "edward29"
   }
 }

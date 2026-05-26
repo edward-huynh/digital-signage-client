@@ -1,4 +1,4 @@
-export const API_BASE_URL = 'http://localhost:3000';
+export const API_BASE_URL = 'https://digital-signage-taupe-xi.vercel.app';
 export const API_VERSION = '/api/v1';
 
 export const HEARTBEAT_INTERVAL = 30000;
